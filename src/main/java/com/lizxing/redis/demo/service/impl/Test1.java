@@ -8,5 +8,7 @@ package com.lizxing.redis.demo.service.impl;
 public class Test1 {
     public static void main(String[] args) {
         int b = 1;
+        int c= 2;
+        System.out.println("合并请求1");
     }
 }
