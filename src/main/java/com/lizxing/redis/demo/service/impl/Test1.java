@@ -10,5 +10,6 @@ public class Test1 {
         int b = 1;
         int c= 2;
         System.out.println("合并请求1");
+        System.out.println("合并请求2");
     }
 }
